@@ -1,2 +1,2 @@
-# mysite
-Exercicio_modulo_7
+# Exercicio_modulo_7
+Repositório para estudos sobre Django no curso Full Stack da EBAC
